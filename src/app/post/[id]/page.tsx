@@ -1,8 +1,8 @@
-import React from "react";
 import "./page.module.scss";
 import { SinglePostIn } from "@/types/types";
-import styles from "./page.module.scss";
 import { createTranslation } from "@/i18n/server";
+
+import styles from "./page.module.scss";
 
 const getPost = async (id: number) => {
   const res = await fetch(`https://jsonplaceholder.typicode.com/posts/${id}`);
@@ -15,9 +15,9 @@ const getPost = async (id: number) => {
   return post;
 };
 const SinglePost = async ({ params }: SinglePostIn) => {
-  const { t } = await createTranslation("post");
   const { id } = params;
   const { title, body } = await getPost(id);
+  const { t } = await createTranslation("post");
 
   return (
     <div className={styles.post}>

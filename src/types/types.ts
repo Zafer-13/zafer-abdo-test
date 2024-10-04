@@ -10,3 +10,12 @@ export interface UserIn {
     username: string;
     email: string
 }
+
+export interface PostIn {
+    id: number;
+    title: string
+}
+
+export interface PostsIn {
+    initialPosts: PostIn[]
+}

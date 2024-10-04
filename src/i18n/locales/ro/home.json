@@ -3,6 +3,8 @@
   "romanian": "Română",
   "greeting": "Buna ziua!",
   "page": "Aplicație minimalistă, multilingvă, folosind Next.js!",
+  "posts": "Postări",
   "title1": "Accesați pagina dinamică - Detalii postați",
-  "title2": "Accesați Redarea pe server - Pagina utilizatorilor"
+  "title2": "Accesați Redarea pe server - Pagina utilizatorilor",
+  "title3": "Accesați Regenerarea statică incrementală - Pagina Postări"
 }

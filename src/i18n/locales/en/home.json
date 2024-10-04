@@ -3,6 +3,8 @@
   "romanian": "Romanian",
   "greeting": "Hello",
   "page":"Minimalistic, multilingual application using Next.js!",
+  "posts":"Posts",
   "title1":"Go to dynamic page - Post Details",
-  "title2":"Go to Server Side Rendering - Users Page"
+  "title2":"Go to Server Side Rendering - Users Page",
+  "title3":"Go to Incremental Static Regeneration - Posts Page"
 }
