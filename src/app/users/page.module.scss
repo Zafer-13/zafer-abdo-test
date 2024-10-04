@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+
+    & > h1 {
+        color: rgb(46, 46, 142)
+    }
+
+    & > table {
+        background-color: white;
+        color: black;
+        width: 300px
+    }
+}

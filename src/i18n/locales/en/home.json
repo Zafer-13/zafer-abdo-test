@@ -1,0 +1,8 @@
+{
+  "english": "English",
+  "romanian": "Romanian",
+  "greeting": "Hello",
+  "page":"Minimalistic, multilingual application using Next.js!",
+  "title1":"Go to dynamic page - Post Details",
+  "title2":"Go to Server Side Rendering - Users Page"
+}

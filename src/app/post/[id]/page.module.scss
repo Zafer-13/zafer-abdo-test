@@ -1,0 +1,19 @@
+.post {
+    min-height: 100vh;
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+
+    & > h1 {
+        color: rgb(46, 46, 142)
+    }
+
+    & > table {
+        background-color: white;
+        color: black;
+        width: 300px
+    }
+}
