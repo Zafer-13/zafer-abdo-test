@@ -15,7 +15,7 @@ bun dev
 ```
 
 ## Testing E2E with cypress 
-npm cypress open 
+npx cypress open 
 
 ## Deploy on Vercel
 Vercel link : https://zafer-abdo-test-usnz.vercel.app/
