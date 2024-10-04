@@ -1,7 +1,7 @@
 "use client";
 import { useTranslation } from "@/i18n/client";
 import Switcher from "../switcher/Switcher";
-import styles from "./header.module.scss";
+import styles from "./page.module.scss";
 const Header = () => {
   const { t } = useTranslation("home");
 
