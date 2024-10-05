@@ -19,6 +19,7 @@ async function Home() {
           <Link href={`/post/1`}>{t("title1")}</Link>
           <Link href={`/users`}>{t("title2")}</Link>
           <Link href={`/posts`}>{t("title3")}</Link>
+          <Link href={`/products`}>{t("title4")}</Link>
         </div>
       </div>
     </div>

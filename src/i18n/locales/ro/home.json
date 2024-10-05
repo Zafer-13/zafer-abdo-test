@@ -6,5 +6,6 @@
   "posts": "Postări",
   "title1": "Accesați pagina dinamică - Detalii postați",
   "title2": "Accesați Redarea pe server - Pagina utilizatorilor",
-  "title3": "Accesați Regenerarea statică incrementală - Pagina Postări"
+  "title3": "Accesați Regenerarea statică incrementală - Pagina Postări",
+  "title4": "Accesați React/Query - Pagina de produse"
 }

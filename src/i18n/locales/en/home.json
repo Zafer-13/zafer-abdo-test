@@ -6,5 +6,6 @@
   "posts":"Posts",
   "title1":"Go to dynamic page - Post Details",
   "title2":"Go to Server Side Rendering - Users Page",
-  "title3":"Go to Incremental Static Regeneration - Posts Page"
+  "title3":"Go to Incremental Static Regeneration - Posts Page",
+  "title4":"Go to React/Query - Products Page"
 }

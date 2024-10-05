@@ -19,3 +19,10 @@ export interface PostIn {
 export interface PostsIn {
     initialPosts: PostIn[]
 }
+
+export interface ProductIn  {
+    id: number;
+    category: string;
+    description: string;
+    price: number
+}
